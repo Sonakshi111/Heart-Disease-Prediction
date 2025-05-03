@@ -1,2 +1,2 @@
 # Heart-Disease-Prediction
-A Heart Disease Prediction model 
+A Heart Disease Prediction model using ML
