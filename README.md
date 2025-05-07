@@ -11,5 +11,8 @@ The objective of this project is to develop a predictive system that leverages s
 
 Each model was trained and evaluated using standard metrics to determine its effectiveness in classification tasks.
 
+Deployed on Streamlit:
+https://heart-disease-prediction-model-usingml.streamlit.app/
+
 ~ Model Visualization
 ![heart-Disease-pred](https://github.com/user-attachments/assets/5de8a376-839e-4ef4-857c-e56fa59ff1e9)
