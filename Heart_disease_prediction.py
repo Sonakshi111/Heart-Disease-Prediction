@@ -10,7 +10,7 @@ from streamlit_option_menu import option_menu
 
 #loading the model
 
-heart_disease_model= pickle.load(open('C:/Users/sonak/OneDrive/Desktop/Heart_disease_pred/heart_disease_model.sav','rb'))
+heart_disease_model= pickle.load(open('heart_disease_model.sav','rb'))
 
 
 #sidebar for navigator
