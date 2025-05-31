@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
-
+"""
+Heart Disease Prediction Model
+"""
 
 import pickle
 import streamlit as st
@@ -27,8 +29,6 @@ if (selected == 'Heart Disease Prediction'):
     st.title('Heart Disease Prediction using Ml')
     
     #Getting input from user
-    # page title
-    st.title('Heart Disease Prediction using Ml')
     age= st.text_input('Age')
     sex = st.text_input('Sex  ( 0 = Female || 1 = Male )')
     cp = st.text_input('Chest Pain types  ( 0 = Typical angina || 1 = Atypical || 2 = Non-anginal || 3 = Asymptomatic)')
