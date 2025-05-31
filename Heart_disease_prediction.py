@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Heart Disease Prediction Model
-"""
+
 
 import pickle
 import streamlit as st
